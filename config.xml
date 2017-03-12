@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>hello</name>
+<widget id="com.phonegap.isbchick" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Islamabad Chicken</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Islamabad Chicken is a chain of high-quality stores providing fresh ,healthy and hygienic chicken everyday.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        IC 
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
